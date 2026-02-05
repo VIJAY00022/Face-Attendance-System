@@ -1,0 +1,4 @@
+faces/
+*.npy
+__pycache__/
+
